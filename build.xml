@@ -1,4 +1,4 @@
-<project name="qabel-block" basedir="." default="build">
+<project name="qabel-accounting" basedir="." default="build">
     <property environment="env"/>
     <property name="dblog" value="/tmp/postgresql.5433.log"/>
     <property name="dbdir" value="/tmp/postgresqldata.5433"/>
