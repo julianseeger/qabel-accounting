@@ -52,8 +52,6 @@
             <arg value="-U"/>
             <arg value="-r"/>
             <arg value="requirements.txt"/>
-            <arg value="--cache-dir"/>
-            <arg value="~/pip-cache"/>
         </exec>
     </target>
     
